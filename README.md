@@ -98,4 +98,4 @@ python game_agent.py
 Final Note
 
 This project focuses on clean design, clear rules, and correct logic rather than a fancy interface.
-The structure makes the game easy to understand, debug, and explain during evaluation or interviews.
+The structure makes the game easy to understand, debug, and explain.
